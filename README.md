@@ -1,1 +1,1 @@
-# This repository is used for Multi-view Clustering (MvClustering) projects.
+# This repository is used for Multi-view Clustering projects.
