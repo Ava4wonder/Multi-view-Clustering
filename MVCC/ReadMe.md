@@ -13,13 +13,13 @@ The details of the main folders are given below,
 - CalcMeasures: get the clustering performance results, including ACC, NMI and F-measures.
 
 Citation:
-@inproceedings{Wang:7837980, 
-author={H. Wang and Y. Yang and T. Li}, 
-booktitle={2016 IEEE 16th International Conference on Data Mining (ICDM)}, 
-title={Multi-view Clustering via Concept Factorization with Local Manifold Regularization}, 
+@inproceedings{Wang:7837980,
+author={H. Wang and Y. Yang and T. Li},
+booktitle={2016 IEEE 16th International Conference on Data Mining (ICDM)},
+title={Multi-view Clustering via Concept Factorization with Local Manifold Regularization},
 year={2016},
-pages={1245-1250}, 
-doi={10.1109/ICDM.2016.0167}, 
+pages={1245-1250},
+doi={10.1109/ICDM.2016.0167},
 month={December},
 address={Bacerlona, Spain}
 }
